@@ -69,10 +69,8 @@ POST /coupons/applicable-coupons Example Body:
   "cart": {
     "items": [
       { "productId": "p1", "price": 2000, "quantity": 1 }
+
     ]
   }
 }
-
-
-
 
